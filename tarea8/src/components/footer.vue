@@ -1,7 +1,7 @@
 <template>
      <footer class="footer">
     <p>© 2025 Todos los derechos reservados.</p>
-    <p>Santa Tecla, El Salvador por Noé</p>
+    <p>San Salvador, El Salvador por Noé</p>
   </footer>
 </template>
 
